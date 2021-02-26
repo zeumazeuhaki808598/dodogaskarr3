@@ -1,0 +1,4 @@
+baseURL = "https://reygas-football99.vercel.app"
+languageCode = "en-us"
+title = "Player Football in USA"
+theme = "hugo-theme-minos"
